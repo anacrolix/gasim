@@ -1,0 +1,1 @@
+A simple genetic algorithm simulator inspired by the GA Applet at http://math.hws.edu/xJava/GA/
